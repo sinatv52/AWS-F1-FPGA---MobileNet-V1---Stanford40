@@ -12,3 +12,4 @@ This implementation is based on the upstream repo but with c++ wrapper (using xc
 - Target FPGA: AWS f1 (VU9P chip)
 - Frameworks : Keras and tflite
 - Software for FPGA : SDAccel
+- Data Percision : Floating Point
