@@ -1,7 +1,7 @@
 # MobileNet-V1 Implemetation on FPGA
 
 
-This Repo is goning to be changed soon ...
+## This Repo is goning to be changed soon ...
 
 This implementation is based on the upstream repo but with c++ wrapper (using xcl2.hpp and xcl2.cpp) tuned for stanford40 dataset with 40 action classes.
 
