@@ -7,7 +7,7 @@ This implementation is based on the upstream repo but with c++ wrapper (using xc
 
 
 - Used Techniques : Transfer Learning and Folding Batch Normalization 
-- Network : Mobilenet v1
+- Network : MobileNet v1
 - Dataset : Stanford40 (Action recognition)
 - Target FPGA: AWS f1 (VU9P chip)
 - Frameworks : Keras and tflite
