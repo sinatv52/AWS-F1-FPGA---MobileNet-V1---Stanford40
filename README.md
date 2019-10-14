@@ -11,4 +11,4 @@ This implementation is based on the upstream repo but with c++ wrapper (using xc
 - Dataset : Stanford40 (Action recognition)
 - Target FPGA: AWS f1 (VU9P chip)
 - Frameworks : Keras and tflite
-- software for FPGA : SDaccel
+- Software for FPGA : SDAccel
