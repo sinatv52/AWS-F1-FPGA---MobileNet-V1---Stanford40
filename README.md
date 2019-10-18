@@ -13,3 +13,4 @@ This implementation is based on the upstream repo but with C++ wrapper (using xc
 - Frameworks : Keras and tflite
 - Software for FPGA : SDAccel v2018.3 in Centos 7.6
 - Data Precision : Floating Point
+- Input image format : Numpy Arrays extracted using Netron and  Reading using CNPY
